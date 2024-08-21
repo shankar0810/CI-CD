@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   app:
-    image: shankar0810/cicd
+    image: shankar0810/cicd1
     build:
       context: .
       dockerfile: Dockerfile
